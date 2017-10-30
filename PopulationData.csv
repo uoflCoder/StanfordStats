@@ -1,0 +1,1130 @@
+"","Course","Handed","Sex","Verbal","Age"
+"1"," Social","left","male",470,18.83
+"2"," Social","right","female",650,18.67
+"3"," Social","right","male",580,20.08
+"4"," Social","right","female",660,18.5
+"5"," Social","right","female",790,24.25
+"6"," Social","right","female",640,20.33
+"7"," Social","left","female",660,19.17
+"8"," Social","right","female",560,19.25
+"9"," Social","right","female",560,18.92
+"10"," Social","right","female",540,19.08
+"11"," Social","right","female",620,18.42
+"12"," Social","left","male",640,18.75
+"13"," Social","right","female",550,18.25
+"14"," Social","right","male",400,19.25
+"15"," Social","right","male",430,21
+"16"," Social","right","male",630,20.42
+"17"," Social","right","female",630,18.5
+"18"," Social","right","male",720,22.67
+"19"," Social","right","female",NA,23
+"20"," Social","right","female",660,18.83
+"21"," Social","right","female",520,18.83
+"22"," Social","right","female",640,18.5
+"23"," Social","right","male",580,19.08
+"24"," Social","left","female",730,18.08
+"25"," Social","left","female",550,20.33
+"26"," Social","right","male",600,18.33
+"27"," Social","right","female",530,18.67
+"28"," Social","right","female",650,18.58
+"29"," Social","right","female",800,20.92
+"30"," Social","right","female",730,18.5
+"31"," Social","right","male",730,20.17
+"32"," Social","right","female",610,19.67
+"33"," Social","right","female",530,18.83
+"34"," Social","right","female",550,18.42
+"35"," Social","left","male",590,19.17
+"36"," Social","right","female",650,NA
+"37"," Social","right","female",NA,19.67
+"38"," Social","right","male",690,19.17
+"39"," Social","right","female",600,19
+"40"," Social","right","female",NA,19.42
+"41"," Social","right","female",NA,20.83
+"42"," Social","right","female",510,18.83
+"43"," Social","right","female",530,20.33
+"44"," Social","right","female",700,18.83
+"45"," Social","left","female",550,19.33
+"46"," Social","right","female",660,18
+"47"," Social","right","male",NA,26.33
+"48"," Social","right","female",600,18.33
+"49"," Social","right","female",680,20.08
+"50"," Social","left","female",560,18.92
+"51"," Social","right","male",530,20.75
+"52"," Social","right","male",550,18.92
+"53"," Social","right","female",600,19.67
+"54"," Social","left","male",630,19.83
+"55"," Social","right","female",540,18.75
+"56"," Social","right","female",580,18.42
+"57"," Social","left","female",710,18.83
+"58"," Social","right","male",750,19.08
+"59"," Social","right","female",600,20.33
+"60"," Social","left","male",650,21.5
+"61"," Social","right","female",680,18.83
+"62"," Social","right","female",NA,20.25
+"63"," Social","right","female",580,20.42
+"64"," Social","right","male",480,20.92
+"65"," Social","right","female",600,21.42
+"66"," Social","left","female",600,19.92
+"67"," Social","left","male",510,23
+"68"," Social","right","female",610,21.33
+"69"," Social","right","female",650,30.92
+"70"," Social","right","female",520,20
+"71"," Social","right","male",540,20.25
+"72"," Social","right","female",650,20.17
+"73","Natural","right","female",610,31.17
+"74","Natural","right","female",540,19.17
+"75","Natural","right","female",680,20.75
+"76","Natural","right","male",580,19.92
+"77","Natural","right","male",640,24.92
+"78","Natural","right","female",400,20.08
+"79","Natural","right","female",NA,19.83
+"80","Natural","right","male",670,21.83
+"81"," Social","right","female",640,18.33
+"82","Natural","right","male",720,19.92
+"83","Natural","right","female",NA,23.42
+"84","Natural","right","male",770,19.75
+"85","Natural","right","female",520,20.67
+"86","Natural","right","male",630,18.83
+"87","Natural","right","male",480,18.42
+"88","Natural","right","male",NA,20.5
+"89","Natural","right","male",660,18.5
+"90","Natural","right","male",700,19.33
+"91","Natural","right","male",490,21
+"92","Natural","right","female",670,19.67
+"93","Natural","right","male",660,20.25
+"94","Natural","right","female",550,19.67
+"95","Natural","right","female",650,19.5
+"96","Natural","right","male",620,19.25
+"97","Natural","right","female",610,18.75
+"98","Natural","right","male",450,22.33
+"99","Natural","right","female",530,18.92
+"100","Natural","right","male",580,20.83
+"101","Natural","left","female",630,18.92
+"102","Natural","right","male",620,18.83
+"103","Natural","left","male",600,19.92
+"104","Natural","right","female",500,19.42
+"105","Natural","right","female",620,20.5
+"106","Natural","right","female",710,18.75
+"107","Natural","right","female",580,19.58
+"108","Natural","right","male",580,19.5
+"109","Natural","right","female",590,18.92
+"110","Natural","right","female",560,19.5
+"111","Natural","right","female",460,18.17
+"112","Natural","right","female",NA,19.08
+"113","Natural","left","female",560,18.92
+"114","Natural","right","male",590,18.75
+"115","Natural","right","female",600,19.75
+"116","Natural","right","female",560,22.58
+"117","Natural","right","female",540,44.67
+"118","Natural","right","female",710,NA
+"119","Business","right","male",500,18.08
+"120","Business","right","female",640,19.92
+"121","Business","right","male",530,19.58
+"122","Business","left","male",480,18.5
+"123","Natural","right","male",540,20.08
+"124","Natural","right","male",540,21.25
+"125","Natural","right","female",740,19.75
+"126","Natural","right","male",650,22.25
+"127","Natural","right","male",NA,19.67
+"128","Natural","right","female",550,20.67
+"129","Natural","right","male",540,19.58
+"130","Natural","right","male",490,20.83
+"131","Natural","left","female",580,20.08
+"132","Natural","right","male",650,20.17
+"133","Natural","right","male",540,18.58
+"134","Natural","right","female",520,22.08
+"135","Natural","right","male",560,19.42
+"136","Natural","right","male",NA,27.33
+"137","Natural","right","female",670,19.5
+"138","Natural","right","male",550,20.25
+"139","Natural","right","male",600,19.5
+"140","Business","right","male",520,19.42
+"141","Business","left","male",590,19.17
+"142"," Social","left","female",670,18.5
+"143","Business","right","male",570,18.42
+"144","Business","right","female",550,19.75
+"145","Business","right","male",700,20.17
+"146","Natural","right","female",700,18.25
+"147"," Social","right","female",670,19.25
+"148","Natural","right","male",720,18.92
+"149","Natural","right","male",630,19.25
+"150","Natural","right","male",760,21.42
+"151","Natural","right","male",490,19.92
+"152","Natural","right","male",580,22.08
+"153","Business","right","female",NA,22
+"154","Natural","left","male",580,22
+"155","Natural","right","female",700,18.5
+"156","Natural","right","male",530,22.5
+"157","Natural","right","male",670,18.83
+"158","Natural","right","female",720,17.92
+"159","Natural","left","female",590,18.17
+"160","Natural","right","female",570,18.58
+"161","Natural","left","male",700,18.25
+"162","Natural","right","female",750,18.58
+"163","Natural","right","male",650,19.33
+"164","Natural","left","female",610,19.58
+"165","Natural","left","male",680,19.33
+"166","Natural","right","female",580,18.58
+"167","Natural","right","male",640,19.42
+"168","Natural","left","female",610,19.58
+"169","Natural","right","female",720,18.75
+"170","Natural","right","female",600,18.58
+"171","Natural","left","female",550,18.92
+"172","Natural","right","female",670,19.08
+"173","Natural","right","male",560,19.67
+"174","Natural","right","male",520,19.58
+"175","Natural","right","female",570,18.75
+"176","Natural","right","female",560,20
+"177","Natural","right","male",530,21.33
+"178","Natural","right","male",600,18.5
+"179","Natural","right","female",560,19.17
+"180","Natural","left","female",560,20.25
+"181"," Social","right","female",670,18.42
+"182"," Social","right","female",500,21.08
+"183"," Social","left","male",640,24.5
+"184"," Social","right","male",550,19.5
+"185"," Social","right","female",730,18.33
+"186"," Social","right","male",660,21.08
+"187"," Social","right","male",660,20.75
+"188"," Social","right","female",720,21.67
+"189"," Social","right","female",520,18.75
+"190"," Social","right","male",490,19.83
+"191"," Social","right","female",600,18.92
+"192"," Social","right","male",760,21.5
+"193"," Social","right","male",660,18.58
+"194"," Social","right","female",570,18.67
+"195"," Social","right","male",500,20.83
+"196"," Social","left","male",700,19.83
+"197"," Social","right","female",590,18.25
+"198"," Social","right","male",580,20.5
+"199"," Social","right","male",490,18.5
+"200","Natural","left","female",590,21.5
+"201","Natural","right","female",550,18.67
+"202","Natural","right","male",540,19.08
+"203"," Social","right","female",600,19.08
+"204","Natural","right","female",580,19.25
+"205","Natural","right","male",750,19.17
+"206","Natural","left","male",540,18.75
+"207","Natural","right","female",600,18.75
+"208"," Social","right","female",560,18.83
+"209","Natural","right","female",640,19.25
+"210"," Social","right","female",600,19
+"211","Natural","right","female",NA,32.08
+"212"," Social","right","male",600,20.08
+"213"," Social","right","male",520,21.17
+"214"," Social","left","male",640,18.25
+"215"," Social","right","female",640,19.5
+"216","Natural","right","female",800,18.92
+"217"," Social","right","female",570,19.08
+"218"," Social","left","male",600,21.5
+"219","Natural","right","male",650,20
+"220","Natural","right","female",720,25.25
+"221"," Social","right","male",540,19.75
+"222","Natural","right","female",630,19
+"223","Natural","right","female",680,18.58
+"224"," Social","right","female",610,18.75
+"225","Natural","right","male",690,18.42
+"226"," Social","right","female",NA,21.58
+"227","Natural","right","female",700,19.25
+"228"," Social","right","female",620,18.92
+"229","Natural","right","male",580,19
+"230","Natural","left","female",520,18.67
+"231"," Social","right","female",550,20.25
+"232"," Social","right","female",550,19.08
+"233"," Social","right","male",680,18.58
+"234"," Social","right","female",NA,18.42
+"235"," Social","left","female",NA,NA
+"236"," Social","right","female",490,19
+"237","Natural","right","male",740,24.5
+"238","Natural","right","female",630,18.5
+"239","Natural","right","female",550,19.5
+"240","Natural","right","female",600,18.92
+"241","Natural","right","female",590,19.33
+"242","Natural","right","female",610,20.25
+"243","Natural","right","female",400,19.75
+"244","Natural","right","male",750,19.58
+"245","Natural","right","female",610,18.83
+"246","Business","right","male",NA,22.92
+"247"," Social","right","male",540,22.75
+"248","Natural","right","female",600,20.92
+"249","Natural","right","male",400,22.25
+"250"," Social","right","female",590,19.25
+"251","Natural","right","female",635,21.75
+"252"," Social","left","female",550,19.25
+"253"," Social","right","male",610,18.75
+"254"," Social","right","female",490,18.58
+"255"," Social","right","female",NA,21.5
+"256"," Social","right","male",610,19.83
+"257"," Social","right","female",690,18.42
+"258"," Social","right","male",540,18.83
+"259","Natural","right","male",550,18.75
+"260"," Social","right","female",460,20.42
+"261"," Social","right","female",580,19.17
+"262"," Social","right","male",600,30.33
+"263","Natural","right","male",600,20.08
+"264","Natural","right","male",430,18.75
+"265"," Social","right","female",600,20.58
+"266"," Social","right","female",570,18.5
+"267","Natural","right","female",670,19.17
+"268"," Social","right","male",540,18.67
+"269","Natural","right","male",560,20.25
+"270"," Social","right","female",550,19.17
+"271"," Social","right","female",NA,21.92
+"272","Natural","right","male",660,18.75
+"273"," Social","right","female",NA,22.33
+"274"," Social","right","female",590,19.92
+"275","Natural","right","female",530,21.58
+"276"," Social","left","male",500,22.67
+"277"," Social","right","female",620,18.58
+"278","Natural","right","female",560,18.83
+"279","Natural","right","male",600,22.58
+"280"," Social","right","female",570,19.33
+"281"," Social","right","male",600,20.67
+"282"," Social","right","female",550,22.5
+"283"," Social","right","female",650,20.17
+"284"," Social","right","male",670,20.83
+"285"," Social","right","female",570,20
+"286"," Social","right","female",510,21.33
+"287"," Social","right","female",600,19.92
+"288"," Social","left","male",510,19.25
+"289"," Social","right","female",490,19.08
+"290"," Social","right","male",555,21.42
+"291"," Social","right","female",500,19
+"292"," Social","right","male",670,19.33
+"293"," Social","right","female",600,19.42
+"294"," Social","right","male",540,29.75
+"295"," Social","right","female",NA,18.67
+"296"," Social","right","male",580,20.83
+"297"," Social","right","female",400,20.17
+"298"," Social","right","female",580,24.17
+"299"," Social","left","female",560,18
+"300"," Social","right","male",540,19.08
+"301"," Social","left","female",520,20.83
+"302"," Social","right","male",620,20
+"303"," Social","right","female",NA,22.25
+"304"," Social","left","female",800,19.58
+"305"," Social","right","female",510,20.17
+"306"," Social","left","female",520,21.67
+"307"," Social","right","male",480,20.42
+"308"," Social","right","female",500,19.25
+"309","Business","right","female",NA,25.75
+"310"," Social","right","female",NA,21.92
+"311"," Social","right","female",560,21.42
+"312"," Social","right","male",600,28.75
+"313"," Social","right","female",500,19.67
+"314"," Social","right","male",580,20.08
+"315"," Social","right","female",590,19.08
+"316"," Social","right","female",540,19.67
+"317"," Social","right","female",700,18.5
+"318"," Social","right","female",NA,18.5
+"319"," Social","right","female",590,19.17
+"320"," Social","right","female",NA,19.75
+"321"," Social","right","female",560,20.42
+"322"," Social","right","female",510,19.17
+"323"," Social","left","female",680,20.25
+"324"," Social","right","male",520,20.42
+"325"," Social","right","male",600,19.67
+"326"," Social","right","male",710,19.42
+"327"," Social","right","female",600,19.17
+"328"," Social","right","male",NA,22.25
+"329"," Social","right","female",480,19.25
+"330"," Social","right","female",560,19.42
+"331"," Social","right","female",480,19.08
+"332"," Social","right","male",550,18.58
+"333"," Social","right","male",650,20.17
+"334"," Social","right","female",NA,20.83
+"335"," Social","right","male",560,19.33
+"336"," Social","right","male",520,19.83
+"337"," Social","right","female",650,19.42
+"338"," Social","right","male",NA,19.33
+"339"," Social","left","female",620,20.67
+"340"," Social","right","male",530,19.58
+"341"," Social","right","male",500,19.67
+"342"," Social","right","female",760,19.17
+"343"," Social","right","female",NA,19.5
+"344"," Social","right","female",NA,20.83
+"345"," Social","right","female",675,21.58
+"346"," Social","right","female",300,25.5
+"347"," Social","right","female",640,31.75
+"348"," Social","right","male",640,19.83
+"349"," Social","right","female",640,19.33
+"350"," Social","right","male",670,19.17
+"351"," Social","right","female",660,19.58
+"352","Business","right","female",440,18.33
+"353"," Social","left","male",660,24.75
+"354"," Social","right","male",520,21.58
+"355"," Social","right","male",550,20.33
+"356"," Social","right","female",NA,19.75
+"357"," Social","left","female",610,20.5
+"358"," Social","right","female",620,19.25
+"359"," Social","right","female",590,19.92
+"360"," Social","right","female",550,20
+"361"," Social","right","female",NA,21.5
+"362"," Social","right","female",560,18.83
+"363"," Social","right","female",680,19.08
+"364"," Social","right","female",590,20.92
+"365"," Social","right","female",500,19.75
+"366"," Social","right","female",NA,21.58
+"367"," Social","right","male",540,NA
+"368"," Social","right","female",540,19.42
+"369"," Social","right","female",480,21.17
+"370"," Social","right","female",640,20.08
+"371"," Social","right","female",660,19.58
+"372"," Social","right","female",600,18.42
+"373"," Social","left","female",570,20.92
+"374"," Social","right","female",560,20.5
+"375"," Social","right","male",520,19.58
+"376"," Social","right","female",540,19.17
+"377","Natural","right","female",600,17.92
+"378"," Social","right","male",NA,19.25
+"379"," Social","right","female",550,21
+"380"," Social","right","female",560,20.42
+"381"," Social","left","female",580,19.17
+"382"," Social","left","male",550,20.25
+"383"," Social","right","female",620,18.92
+"384"," Social","right","male",780,19.67
+"385"," Social","right","female",NA,19.83
+"386","Natural","right","female",670,34.67
+"387","Natural","left","male",630,19.25
+"388","Natural","right","female",570,19.5
+"389","Natural","right","male",590,18.17
+"390","Natural","right","female",670,19.25
+"391","Natural","right","male",610,19.08
+"392","Natural","right","male",580,21.83
+"393","Natural","right","female",650,19.58
+"394","Natural","right","male",600,24.92
+"395","Natural","right","female",590,18.75
+"396","Natural","right","female",600,19.83
+"397","Natural","right","male",660,19.5
+"398","Natural","right","female",610,24.42
+"399","Natural","right","female",NA,19.08
+"400","Business","right","male",NA,20.75
+"401","Natural","right","female",600,33.92
+"402","Natural","right","female",500,20
+"403","Natural","right","male",NA,20.75
+"404","Natural","right","female",550,22.17
+"405","Natural","left","female",NA,19.5
+"406","Natural","right","male",570,25.17
+"407","Natural","right","female",700,20.67
+"408","Natural","right","female",670,18.83
+"409","Natural","right","male",NA,19
+"410"," Social","right","female",620,19
+"411","Natural","right","female",640,20.67
+"412","Natural","right","female",620,19.42
+"413","Business","right","male",610,20.17
+"414","Natural","right","female",720,19.58
+"415","Natural","right","female",720,18
+"416","Natural","right","male",600,20.5
+"417","Natural","right","female",680,19.33
+"418","Natural","right","female",NA,17.92
+"419","Natural","right","female",NA,20.83
+"420","Natural","right","female",700,19.33
+"421","Natural","right","female",NA,19.42
+"422","Business","right","male",600,20
+"423","Natural","right","female",590,20.67
+"424","Natural","right","female",640,18.42
+"425","Natural","right","male",600,18.58
+"426","Natural","right","female",NA,20.25
+"427","Natural","right","female",500,19.08
+"428","Natural","right","male",NA,19.75
+"429","Natural","right","male",600,20.08
+"430","Natural","left","female",570,21
+"431","Natural","right","female",670,19
+"432","Natural","right","male",480,19.83
+"433","Natural","right","male",660,21.67
+"434","Natural","right","female",620,20.17
+"435","Natural","right","female",800,19.67
+"436","Natural","right","male",550,20
+"437","Natural","right","male",600,28.25
+"438","Natural","right","female",540,19.75
+"439","Natural","right","male",590,21.08
+"440","Natural","right","male",500,20.17
+"441","Natural","left","male",450,22.08
+"442","Natural","right","male",590,34.42
+"443","Natural","right","female",660,19.08
+"444","Natural","right","male",640,21.58
+"445","Natural","right","female",580,19.75
+"446","Natural","right","male",590,23.5
+"447","Natural","right","female",580,19.33
+"448","Natural","right","female",600,19.33
+"449","Natural","right","female",520,19.58
+"450","Natural","right","male",690,19.92
+"451","Natural","right","female",630,18.42
+"452","Natural","right","female",550,20.17
+"453","Natural","left","male",550,18.5
+"454","Natural","right","female",500,20.08
+"455","Natural","right","female",580,19.25
+"456","Natural","right","female",520,18.67
+"457","Natural","left","male",480,19.08
+"458","Natural","right","male",540,19.67
+"459","Natural","right","female",710,17.92
+"460","Natural","left","male",590,21.25
+"461","Natural","right","female",560,19.33
+"462","Natural","right","female",520,19
+"463","Natural","right","female",790,19.92
+"464","Natural","right","female",600,21.17
+"465","Natural","right","male",540,22.83
+"466"," Social","right","female",610,19.5
+"467","Natural","right","female",500,20.83
+"468","Natural","left","female",670,20.5
+"469","Natural","right","male",500,19.25
+"470","Natural","right","male",550,23
+"471","Natural","right","female",610,19.33
+"472","Natural","right","female",520,19.33
+"473","Natural","right","female",500,19.25
+"474","Natural","right","female",NA,19.5
+"475","Business","right","male",700,25
+"476"," Social","right","female",590,20.25
+"477","Natural","right","male",NA,20
+"478","Natural","right","female",NA,20.33
+"479"," Social","left","female",590,20.75
+"480"," Social","right","male",600,20.83
+"481","Natural","right","female",690,19.5
+"482","Natural","right","male",710,18.67
+"483","Natural","right","female",620,19.17
+"484","Natural","right","female",600,19
+"485","Natural","right","female",620,21.92
+"486","Natural","right","male",600,18.92
+"487","Natural","right","female",620,19.92
+"488","Natural","right","male",560,19
+"489","Natural","right","female",620,19.33
+"490","Natural","right","female",NA,19.42
+"491","Natural","right","female",500,23
+"492"," Social","right","female",660,19.25
+"493","Natural","right","male",500,20.42
+"494","Natural","right","male",650,20
+"495"," Social","right","male",630,20.58
+"496","Natural","left","female",630,18.5
+"497","Natural","right","female",560,20.58
+"498","Natural","right","female",600,19.33
+"499","Natural","right","male",700,19.58
+"500","Natural","right","female",620,20.25
+"501","Natural","right","female",650,19.08
+"502","Natural","right","female",580,19.25
+"503","Natural","right","female",600,19.08
+"504","Natural","right","male",660,19
+"505","Natural","right","female",560,19.25
+"506","Natural","right","female",710,19.58
+"507","Natural","right","female",500,19.42
+"508","Natural","right","male",680,24.17
+"509"," Social","right","female",630,18.75
+"510","Natural","left","female",600,19.17
+"511","Natural","right","male",740,20.83
+"512","Natural","right","female",530,20.17
+"513","Natural","right","female",650,19.17
+"514","Natural","left","female",560,19.58
+"515"," Social","right","female",620,19.42
+"516"," Social","right","female",670,19.58
+"517"," Social","right","female",650,20.75
+"518"," Social","right","female",720,19.92
+"519"," Social","right","male",560,21.25
+"520"," Social","right","female",560,19.83
+"521"," Social","right","male",630,20.83
+"522"," Social","right","female",NA,19
+"523"," Social","right","male",540,19.42
+"524"," Social","right","female",460,19.67
+"525"," Social","left","female",NA,19.83
+"526"," Social","right","female",500,20.67
+"527"," Social","right","female",700,20.17
+"528"," Social","left","male",NA,20.75
+"529"," Social","left","female",510,45.58
+"530"," Social","right","female",560,18.58
+"531"," Social","right","female",680,19.5
+"532"," Social","right","male",480,18.83
+"533"," Social","right","female",520,19.17
+"534"," Social","right","female",720,19.42
+"535"," Social","right","female",790,19.25
+"536"," Social","right","female",610,20.17
+"537"," Social","right","female",NA,18.67
+"538"," Social","right","female",650,22
+"539"," Social","right","female",680,19.17
+"540"," Social","right","female",590,20.58
+"541"," Social","right","female",590,19
+"542"," Social","right","female",700,19.5
+"543"," Social","right","male",550,22.17
+"544"," Social","right","female",580,22.67
+"545"," Social","right","male",610,19.83
+"546"," Social","right","female",580,19.25
+"547"," Social","right","male",520,19.42
+"548"," Social","right","female",670,19.33
+"549"," Social","left","female",535,18.08
+"550"," Social","right","female",640,19.25
+"551"," Social","right","male",600,19
+"552"," Social","right","female",500,18
+"553"," Social","right","female",620,19.25
+"554"," Social","right","female",NA,19.92
+"555"," Social","right","male",580,23.08
+"556"," Social","right","male",610,19.42
+"557"," Social","right","male",570,19.25
+"558"," Social","left","female",570,19
+"559"," Social","right","male",570,19.33
+"560"," Social","right","female",610,19.58
+"561"," Social","right","female",600,19.58
+"562"," Social","right","male",520,19.92
+"563"," Social","right","male",580,20
+"564"," Social","right","female",620,19
+"565"," Social","left","female",550,19.58
+"566"," Social","right","female",530,19.75
+"567"," Social","left","female",660,20.83
+"568"," Social","right","female",500,19.08
+"569"," Social","right","female",640,23.83
+"570"," Social","right","female",510,19.33
+"571"," Social","right","female",600,19.17
+"572"," Social","right","male",650,19.83
+"573"," Social","right","male",NA,20.25
+"574"," Social","right","female",600,19.17
+"575"," Social","left","male",470,19.92
+"576"," Social","right","female",600,19.33
+"577"," Social","left","female",550,21.92
+"578"," Social","right","female",610,20
+"579"," Social","right","female",570,19.58
+"580"," Social","right","female",560,19.08
+"581"," Social","left","male",590,22.17
+"582"," Social","left","female",500,20
+"583"," Social","right","female",610,19.58
+"584"," Social","right","female",550,19.33
+"585"," Social","right","female",550,21.75
+"586"," Social","left","male",640,19.5
+"587"," Social","right","male",400,19.5
+"588"," Social","right","female",580,20.67
+"589"," Social","right","female",650,19.58
+"590"," Social","right","female",500,20.08
+"591"," Social","right","female",620,20.83
+"592","Natural","right","female",500,19.17
+"593","Natural","right","female",590,20.33
+"594","Natural","right","female",600,19.83
+"595","Natural","left","female",600,20.17
+"596","Natural","right","male",NA,19.58
+"597","Natural","right","male",600,19.67
+"598","Natural","right","male",600,19.67
+"599","Natural","right","male",450,19.58
+"600","Natural","left","male",690,21.17
+"601","Natural","right","male",470,19.58
+"602","Natural","left","male",520,21.17
+"603","Natural","right","female",630,19.33
+"604","Natural","right","male",620,21.17
+"605","Natural","right","female",510,19.83
+"606","Natural","right","female",560,18.92
+"607","Natural","right","female",600,19.25
+"608","Natural","right","female",660,18.17
+"609","Natural","right","female",460,20.33
+"610","Natural","right","male",NA,19.42
+"611","Natural","right","male",NA,22.58
+"612","Natural","right","female",510,20.33
+"613","Natural","right","female",640,20
+"614","Natural","right","female",NA,19.17
+"615","Natural","right","female",700,19.08
+"616","Natural","right","male",600,20.25
+"617"," Social","right","female",760,21.25
+"618","Natural","right","female",790,19.25
+"619","Natural","right","female",670,18.92
+"620","Natural","right","male",660,21
+"621","Natural","right","female",540,18.5
+"622","Natural","right","female",510,19.42
+"623","Natural","right","female",570,22.33
+"624","Natural","left","male",400,19.08
+"625","Natural","right","female",630,22.75
+"626","Natural","right","female",750,20.5
+"627","Natural","right","female",700,19.75
+"628","Natural","right","male",580,19.58
+"629","Natural","right","male",600,19.92
+"630","Natural","right","female",720,22.75
+"631","Natural","right","female",590,19.92
+"632","Natural","right","male",540,19.25
+"633","Natural","right","male",580,19.08
+"634","Natural","left","female",NA,21.25
+"635"," Social","right","female",520,19.17
+"636","Natural","right","male",680,20.25
+"637","Natural","right","female",600,19.17
+"638","Natural","right","male",780,21.75
+"639","Natural","right","female",540,23.5
+"640","Natural","right","male",570,19.83
+"641","Natural","right","male",680,20.25
+"642","Natural","right","male",620,20.75
+"643","Natural","right","male",540,19.42
+"644","Natural","right","male",NA,20.67
+"645","Natural","left","male",580,21
+"646","Natural","right","female",NA,17.92
+"647","Natural","right","male",650,20.42
+"648","Natural","left","male",650,19.25
+"649","Natural","right","female",600,19.58
+"650","Natural","right","male",750,20.42
+"651","Natural","right","male",520,20
+"652","Natural","right","male",NA,19.42
+"653","Natural","right","male",550,21.67
+"654","Natural","right","female",720,19.5
+"655","Natural","right","female",630,18.83
+"656","Natural","right","male",550,21.33
+"657","Natural","right","female",NA,19.75
+"658","Natural","right","female",540,19.58
+"659","Natural","right","male",690,20.08
+"660","Natural","right","female",540,18.5
+"661","Natural","right","male",590,20.5
+"662","Natural","right","male",510,19.75
+"663","Natural","right","female",590,19
+"664","Natural","right","female",560,19.08
+"665","Natural","right","male",530,19.33
+"666","Natural","left","male",550,19.33
+"667","Natural","right","male",510,19.67
+"668","Natural","right","female",680,21.17
+"669","Natural","right","female",600,19.08
+"670","Natural","right","male",520,22.58
+"671","Natural","right","female",600,19.5
+"672","Natural","left","male",540,20.67
+"673","Business","right","male",500,18.58
+"674","Business","right","female",620,17.67
+"675","Business","right","male",560,19.75
+"676"," Social","left","male",550,20.42
+"677","Business","right","female",640,20
+"678","Business","right","female",500,18.92
+"679","Business","right","male",530,20.67
+"680","Business","left","male",500,19.08
+"681","Business","right","male",540,19.33
+"682","Business","right","female",NA,19.42
+"683","Business","left","female",590,22.75
+"684","Natural","right","male",580,19.83
+"685","Business","right","male",580,19
+"686","Business","right","female",580,19
+"687","Business","right","female",590,18.92
+"688","Business","right","female",680,19.25
+"689","Business","right","male",600,21.67
+"690","Business","right","male",680,21.92
+"691","Business","left","male",420,28.42
+"692"," Social","left","female",640,20.17
+"693"," Social","right","male",530,22.92
+"694","Business","right","male",600,19.5
+"695","Business","right","male",500,21.58
+"696","Business","right","male",530,19.92
+"697","Business","right","male",NA,20.25
+"698"," Social","right","female",600,40
+"699","Business","right","male",NA,19.5
+"700"," Social","right","female",NA,44
+"701","Natural","right","female",450,NA
+"702","Business","right","male",540,18.33
+"703","Business","right","male",450,19.08
+"704","Business","right","male",700,23.42
+"705","Business","right","female",NA,19.67
+"706","Business","right","female",490,21.67
+"707"," Social","right","female",600,19.67
+"708"," Social","right","female",NA,19.33
+"709"," Social","right","female",550,19
+"710"," Social","right","female",730,19.58
+"711"," Social","left","female",630,19.5
+"712"," Social","right","female",NA,19
+"713"," Social","right","female",670,19.58
+"714"," Social","left","female",580,19.5
+"715"," Social","right","male",580,19.83
+"716"," Social","right","male",620,19.58
+"717"," Social","right","female",580,19.67
+"718"," Social","right","female",530,18.92
+"719"," Social","left","female",NA,19
+"720"," Social","right","male",590,20.92
+"721"," Social","right","male",340,18.92
+"722"," Social","right","male",640,19.25
+"723"," Social","right","female",640,19.92
+"724"," Social","right","female",740,19.58
+"725"," Social","right","female",580,19.42
+"726"," Social","right","female",NA,19.67
+"727"," Social","right","female",520,20.33
+"728"," Social","right","male",590,20.67
+"729"," Social","right","female",NA,19.33
+"730"," Social","right","male",560,22.92
+"731"," Social","right","female",560,19.75
+"732"," Social","right","female",580,19.67
+"733"," Social","right","female",NA,20.5
+"734"," Social","right","female",550,19.42
+"735"," Social","right","male",NA,19
+"736"," Social","right","female",650,19.58
+"737"," Social","right","female",600,19.17
+"738"," Social","right","female",620,20.25
+"739"," Social","right","male",540,21.17
+"740"," Social","left","male",600,19.83
+"741"," Social","right","female",NA,19.83
+"742"," Social","right","female",620,19.17
+"743"," Social","right","female",NA,20.67
+"744"," Social","right","female",590,45.33
+"745"," Social","right","female",620,19.83
+"746"," Social","left","female",600,22.25
+"747"," Social","right","female",470,20.92
+"748"," Social","left","male",580,23.83
+"749"," Social","right","female",600,19.83
+"750"," Social","left","female",590,20.42
+"751"," Social","right","male",560,20.25
+"752"," Social","right","female",660,20
+"753"," Social","right","female",420,22
+"754"," Social","left","female",630,19.92
+"755"," Social","right","female",540,19.42
+"756"," Social","right","female",700,20.25
+"757"," Social","right","male",690,19.58
+"758","Business","right","male",650,20.25
+"759"," Social","right","female",620,24.33
+"760"," Social","right","male",670,20.92
+"761"," Social","right","male",480,20.42
+"762"," Social","right","male",560,18.75
+"763"," Social","right","female",550,19.83
+"764"," Social","right","male",NA,22.58
+"765"," Social","right","female",730,20
+"766"," Social","left","female",520,28.08
+"767"," Social","left","female",520,21.83
+"768"," Social","right","female",NA,19.83
+"769"," Social","right","female",510,19.42
+"770"," Social","right","female",410,19.17
+"771"," Social","right","female",NA,20.83
+"772"," Social","right","male",NA,21.67
+"773"," Social","right","male",530,25.42
+"774"," Social","right","female",NA,20
+"775"," Social","right","female",450,32.83
+"776"," Social","right","female",580,20.42
+"777"," Social","right","male",650,22.92
+"778"," Social","left","male",580,22.33
+"779"," Social","right","female",550,19
+"780"," Social","right","female",520,19.75
+"781"," Social","right","female",NA,19.92
+"782"," Social","right","female",500,20.42
+"783"," Social","right","male",540,20
+"784"," Social","right","male",520,19.08
+"785"," Social","right","female",NA,19.92
+"786"," Social","right","female",650,19.58
+"787"," Social","right","female",600,19.42
+"788"," Social","right","female",650,19.75
+"789"," Social","right","female",580,19.67
+"790"," Social","right","female",650,19.75
+"791"," Social","right","male",670,20.92
+"792"," Social","left","female",640,20.08
+"793"," Social","right","male",680,24.08
+"794"," Social","left","female",NA,19.5
+"795"," Social","right","female",550,21.25
+"796"," Social","right","female",NA,20.08
+"797"," Social","right","female",750,19.17
+"798"," Social","right","male",580,19.42
+"799"," Social","right","female",450,19.42
+"800"," Social","right","male",490,20.08
+"801"," Social","right","female",540,19.08
+"802"," Social","right","female",490,19.17
+"803"," Social","right","female",NA,18.5
+"804"," Social","right","male",NA,37.42
+"805"," Social","right","female",640,20.08
+"806"," Social","right","female",NA,20.92
+"807"," Social","right","female",540,21.5
+"808"," Social","right","female",NA,20.83
+"809"," Social","right","female",NA,25.25
+"810"," Social","right","female",500,19.25
+"811"," Social","right","female",530,24.42
+"812"," Social","right","female",550,18.33
+"813"," Social","left","female",610,20
+"814"," Social","right","male",510,25
+"815"," Social","right","female",600,20.75
+"816"," Social","right","female",690,18.67
+"817"," Social","right","female",550,18.33
+"818"," Social","right","female",NA,19.75
+"819"," Social","left","male",NA,24.08
+"820"," Social","right","female",480,29.58
+"821"," Social","right","male",590,22
+"822"," Social","right","female",580,19.33
+"823"," Social","left","male",650,21.33
+"824"," Social","left","female",600,19.33
+"825"," Social","right","female",500,18.42
+"826"," Social","left","female",520,20.5
+"827"," Social","right","female",600,18.75
+"828"," Social","right","male",560,19.58
+"829"," Social","right","female",520,26.17
+"830"," Social","right","female",500,18.83
+"831"," Social","right","female",620,21.08
+"832"," Social","right","female",460,19.33
+"833"," Social","right","male",410,19.75
+"834"," Social","right","male",500,20.42
+"835"," Social","left","female",520,21.75
+"836"," Social","right","female",NA,18.67
+"837"," Social","right","male",510,19.5
+"838"," Social","left","male",530,22
+"839"," Social","right","female",510,19.67
+"840"," Social","right","male",550,19.58
+"841"," Social","right","female",640,19.42
+"842"," Social","right","female",510,20
+"843"," Social","right","male",490,19.75
+"844"," Social","right","male",630,21.58
+"845"," Social","right","female",NA,21.75
+"846"," Social","right","male",530,23.58
+"847"," Social","right","male",600,20.58
+"848"," Social","right","female",NA,18.83
+"849"," Social","right","female",600,19
+"850"," Social","left","male",650,19.25
+"851"," Social","right","male",NA,24.83
+"852"," Social","right","female",NA,18.92
+"853"," Social","right","female",680,19
+"854"," Social","right","female",600,20.5
+"855"," Social","left","female",NA,19.92
+"856"," Social","right","female",NA,19.92
+"857"," Social","right","female",700,22.83
+"858"," Social","right","female",540,23.25
+"859"," Social","left","female",550,19.42
+"860"," Social","right","female",600,20.17
+"861"," Social","left","female",600,18.75
+"862"," Social","right","female",NA,21.08
+"863"," Social","right","female",440,20.67
+"864"," Social","right","female",NA,20.83
+"865"," Social","left","male",540,25.83
+"866"," Social","left","male",530,18.58
+"867"," Social","right","female",600,20.5
+"868"," Social","left","female",550,19.67
+"869"," Social","left","male",550,22
+"870"," Social","right","female",600,19.25
+"871"," Social","right","female",590,19.25
+"872"," Social","right","female",530,18.25
+"873"," Social","left","male",675,20.42
+"874"," Social","right","female",650,19.25
+"875"," Social","right","male",NA,18.83
+"876"," Social","right","female",NA,31.08
+"877"," Social","right","male",520,20.58
+"878"," Social","right","male",NA,20.08
+"879"," Social","right","female",540,22.67
+"880"," Social","right","female",620,19.5
+"881"," Social","right","female",NA,20
+"882"," Social","right","female",590,20.67
+"883"," Social","right","male",600,19.67
+"884"," Social","right","male",520,20
+"885"," Social","right","female",440,20.33
+"886"," Social","right","female",520,19.75
+"887"," Social","left","female",610,19.17
+"888"," Social","right","female",420,18.75
+"889"," Social","right","male",530,19.83
+"890"," Social","right","female",680,19.33
+"891","Natural","right","male",710,24.17
+"892"," Social","left","male",630,19.08
+"893"," Social","left","female",690,19.42
+"894"," Social","left","female",420,20.17
+"895"," Social","left","female",460,20.58
+"896"," Social","right","female",680,21
+"897"," Social","right","female",750,21.33
+"898"," Social","right","male",550,18.58
+"899"," Social","right","female",NA,20.08
+"900"," Social","right","female",630,22.08
+"901","Natural","right","female",NA,19.92
+"902","Natural","left","male",560,NA
+"903","Natural","right","male",NA,20.25
+"904","Natural","right","female",670,22.83
+"905","Natural","left","female",700,21
+"906","Natural","right","female",350,24.92
+"907","Natural","right","male",500,21.33
+"908","Natural","left","male",650,19.83
+"909","Natural","right","male",595,20
+"910"," Social","left","female",650,21.08
+"911","Natural","left","male",570,19.92
+"912","Natural","left","male",NA,18.33
+"913","Natural","right","female",610,20.25
+"914","Natural","right","male",630,21.25
+"915","Natural","right","female",800,19.33
+"916","Natural","right","male",650,19.58
+"917","Natural","right","male",NA,18.5
+"918","Natural","left","male",640,19.75
+"919","Natural","right","female",700,20.08
+"920","Natural","right","male",600,18.92
+"921","Natural","right","female",625,19.5
+"922","Natural","right","female",550,19.42
+"923","Natural","right","male",620,19.5
+"924","Natural","right","male",650,21.58
+"925","Natural","right","female",540,19.67
+"926","Natural","right","female",600,19.25
+"927","Natural","right","female",690,18.25
+"928","Natural","right","female",680,18.25
+"929","Natural","left","female",535,20.75
+"930","Natural","right","male",490,21.42
+"931","Natural","right","female",670,19.75
+"932","Natural","left","female",560,18
+"933","Natural","right","male",600,19.25
+"934","Natural","right","male",530,21.17
+"935","Natural","right","female",643,18.5
+"936","Natural","left","female",540,19.92
+"937","Natural","right","female",600,20.08
+"938","Natural","right","male",720,21.42
+"939","Natural","right","female",620,19.08
+"940","Natural","right","male",650,18.58
+"941","Natural","right","female",610,18.33
+"942","Natural","right","female",630,20.17
+"943","Natural","left","male",650,18.42
+"944","Natural","right","female",NA,18.92
+"945","Natural","right","female",670,20.25
+"946","Natural","right","male",740,23.92
+"947","Natural","right","male",630,19.83
+"948","Natural","right","female",690,20.08
+"949","Natural","right","female",700,20
+"950","Natural","right","female",670,23.17
+"951","Natural","right","female",540,19.42
+"952","Natural","right","female",440,19.67
+"953","Natural","right","female",720,24.75
+"954","Natural","right","female",NA,22.08
+"955","Natural","right","male",420,26.25
+"956","Natural","right","female",630,18.67
+"957","Natural","right","male",600,19.25
+"958","Natural","right","female",600,19
+"959","Natural","right","female",600,19.33
+"960","Natural","right","female",600,19.92
+"961","Natural","right","female",450,34.08
+"962"," Social","left","male",500,21.58
+"963"," Social","left","female",550,20.83
+"964","Business","right","female",610,18.58
+"965","Business","left","female",590,18.75
+"966","Business","right","male",480,18.17
+"967","Business","right","female",620,18.75
+"968","Business","right","female",720,20.08
+"969","Business","right","female",690,20.67
+"970","Business","left","male",530,19.08
+"971","Business","right","female",500,20.25
+"972","Business","right","female",550,19.17
+"973","Business","right","female",580,20.92
+"974","Business","right","female",640,19.42
+"975","Business","right","male",580,18.92
+"976","Business","left","male",540,22.58
+"977","Business","right","male",560,18.67
+"978","Business","left","female",460,19.67
+"979","Business","right","female",400,18.17
+"980","Business","right","female",530,18.75
+"981","Business","right","male",NA,20.17
+"982","Business","right","female",510,29
+"983","Business","right","male",500,20.25
+"984","Business","right","female",620,19
+"985","Business","right","female",560,19.17
+"986","Business","right","female",580,18.83
+"987","Business","right","female",NA,19.5
+"988","Business","right","female",490,22.25
+"989","Business","right","male",600,19.5
+"990","Business","right","male",450,20.25
+"991","Business","right","male",580,19.08
+"992","Business","right","female",570,18.67
+"993","Business","left","female",650,19.08
+"994","Business","right","female",660,18.67
+"995","Business","right","male",390,18.42
+"996","Business","right","male",470,18.83
+"997","Business","left","female",500,19.75
+"998","Business","right","male",520,18.83
+"999","Business","right","male",500,19.58
+"1000","Business","right","male",495,18.83
+"1001","Business","right","female",540,19.17
+"1002","Business","right","female",650,19.92
+"1003","Business","right","female",680,18.58
+"1004","Business","right","female",620,19.25
+"1005","Business","right","male",560,18.58
+"1006","Business","right","male",NA,18.33
+"1007","Business","right","male",600,22.92
+"1008","Business","right","female",610,18.58
+"1009","Business","right","female",500,18.33
+"1010","Business","left","male",580,20.5
+"1011","Business","right","female",510,18.42
+"1012","Business","right","female",NA,18.5
+"1013","Business","right","male",500,20.17
+"1014","Business","right","male",590,19.42
+"1015","Business","right","female",530,18.25
+"1016","Business","right","female",650,19.17
+"1017","Business","right","female",670,20.08
+"1018","Business","left","male",450,21.58
+"1019","Business","right","female",NA,18.75
+"1020","Business","left","male",690,20
+"1021","Business","right","female",440,18.83
+"1022","Business","right","male",560,20.42
+"1023","Business","right","female",580,19.67
+"1024"," Social","left","male",630,20.58
+"1025","Business","right","male",640,74.17
+"1026","Business","right","female",690,20.83
+"1027","Business","right","female",690,19.67
+"1028","Business","right","male",550,19.5
+"1029","Business","right","female",590,19.33
+"1030","Business","right","male",600,20.25
+"1031","Business","right","male",620,20.5
+"1032","Business","right","male",590,19.5
+"1033","Business","right","male",530,18
+"1034","Business","right","female",660,19.42
+"1035","Business","right","female",550,18.25
+"1036","Business","right","female",640,20.83
+"1037","Business","right","male",NA,18.75
+"1038","Business","right","male",NA,18.67
+"1039","Business","right","female",660,20.92
+"1040","Business","right","female",500,18.5
+"1041","Business","right","male",590,20.17
+"1042","Business","right","male",650,18.17
+"1043","Business","right","female",625,19.33
+"1044"," Social","right","male",640,23.75
+"1045"," Social","right","female",550,22.58
+"1046"," Social","left","female",480,21.5
+"1047"," Social","right","female",640,21.5
+"1048"," Social","right","female",480,20.5
+"1049","Business","right","female",600,18.33
+"1050"," Social","right","male",570,18.67
+"1051"," Social","right","female",600,18.58
+"1052","Business","right","male",620,22
+"1053","Business","right","female",630,20.25
+"1054","Business","left","male",760,23
+"1055"," Social","right","male",470,18.75
+"1056","Business","right","male",580,18.83
+"1057","Business","right","female",590,19.42
+"1058"," Social","right","male",540,18.08
+"1059","Business","right","male",610,19.33
+"1060","Business","right","male",540,20.25
+"1061","Business","right","female",620,19.42
+"1062","Business","right","male",600,19.83
+"1063","Business","left","female",NA,20.08
+"1064","Business","right","female",550,50.83
+"1065","Business","right","female",510,20.5
+"1066","Business","right","female",680,19.08
+"1067","Business","right","male",620,19.17
+"1068","Business","right","female",540,18.67
+"1069","Business","right","female",670,18.33
+"1070","Business","right","female",650,18.67
+"1071","Business","right","male",550,19.08
+"1072","Business","right","male",620,19.67
+"1073","Business","right","female",630,19.5
+"1074","Business","right","male",620,19.42
+"1075","Business","right","male",660,19.33
+"1076","Business","right","female",590,18.75
+"1077","Business","right","female",340,19.75
+"1078","Business","right","female",560,20.33
+"1079","Business","right","male",540,18.92
+"1080","Business","right","male",NA,20.17
+"1081","Business","right","male",580,20.92
+"1082","Business","right","male",430,18.92
+"1083","Business","right","female",550,19.33
+"1084","Business","right","female",530,19.92
+"1085","Business","right","female",620,19.67
+"1086","Business","right","female",600,18.58
+"1087","Business","right","female",NA,18.67
+"1088","Business","right","male",640,21.5
+"1089","Business","right","female",560,20.33
+"1090","Business","right","male",570,19.58
+"1091","Business","left","female",680,18.42
+"1092","Business","right","female",490,18.67
+"1093","Business","right","female",640,19.58
+"1094","Business","right","female",620,21.33
+"1095","Business","right","female",410,18.75
+"1096","Business","right","male",560,23.17
+"1097","Business","right","male",620,19.58
+"1098","Business","right","female",560,20.5
+"1099","Business","right","female",630,18.75
+"1100","Business","right","female",540,18.67
+"1101","Business","right","female",520,19.92
+"1102","Business","right","male",730,21.58
+"1103","Business","right","male",570,19.5
+"1104","Business","right","female",530,18.17
+"1105","Business","right","female",550,19.08
+"1106","Business","right","male",670,21.08
+"1107","Business","right","female",570,20.25
+"1108","Business","right","female",520,19.92
+"1109","Business","left","female",NA,20.42
+"1110","Business","right","male",500,26.42
+"1111","Business","right","male",NA,20.08
+"1112","Business","right","female",580,19.75
+"1113","Business","right","male",425,20.58
+"1114","Business","right","female",680,21.5
+"1115","Business","right","female",650,19
+"1116","Business","right","male",NA,19.25
+"1117","Business","right","female",560,19.25
+"1118"," Social","right","male",580,20.42
+"1119"," Social","right","female",530,19.33
+"1120"," Social","right","female",NA,19.67
+"1121"," Social","right","male",500,19.58
+"1122"," Social","right","female",430,19.5
+"1123","Business","right","male",670,20.67
+"1124","Business","right","female",550,21.17
+"1125","Business","right","male",570,19.67
+"1126","Natural","right","female",555,19.83
+"1127","Natural","right","female",600,22
+"1128","Natural","right","female",520,21.83
+"1129","Natural","right","female",NA,22.25
